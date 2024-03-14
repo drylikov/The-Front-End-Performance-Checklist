@@ -591,7 +591,6 @@ List of the tools you can use to test or monitor your website or application:
 * 🛠 [Imagify Image Optimizer | WordPress.org](https://wordpress.org/plugins/imagify/)
 
 ---
- href="https://opencollective.com/front-end-checklist#backers" target="_blank"><img src="https://opencollective.com/front-end-checklist/backers.svg?width=890"></a>
 
 **[⬆ back to top](#table-of-contents)**
 
